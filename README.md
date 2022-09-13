@@ -1,0 +1,3 @@
+- Hey there, I'm Cloud. Professionally known as Carter.
+- I create video games, and own a studio under the name of ButterflyCube.
+- That's all, welcome to my github page.
